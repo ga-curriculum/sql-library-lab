@@ -25,7 +25,7 @@ Look critically at each line of the provided `schema.sql` file. Here's how one r
 
 Take a few minutes to research the other rows.
 
-### Load The Schema
+### Load the Schema
 
 Load the schema into your database from the command line...
 
