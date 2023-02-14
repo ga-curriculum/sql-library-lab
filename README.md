@@ -5,7 +5,7 @@
 | SQL Library            | Lab  | 2:00     | Suresh Melvin Sigera |
 
 
-### Setup
+### Lab setup
 
 - Step 1. Fork the repository
 - Step 2. Clone your fork
@@ -14,7 +14,7 @@
 - Step 5. Open the PSQL tool.
 
 
-### Inspecting The Schema
+### Inspecting the Schema
 
 Look critically at each line of the provided `schema.sql` file. Here's how one row breaks down...
 
@@ -34,7 +34,7 @@ Load the schema into your database from the command line...
 \i /Users/<yourname>/2023/abbottlabs/labs/sql-library-lab/schema.sql
 ```
 
-### Loading A Seed File
+### Loading a seed file
 
 We've provided a sql file that adds sample data into our `library` database.
 
@@ -57,6 +57,12 @@ For each exercise, write your queries in the corresponding `.sql` file. Then run
 \i /Users/<yourname>/2023/abbottlabs/labs/sql-library-lab/basic_queries.sql
 ```
 
+## How to submit homework
+
+### Setup
+
+- Step 1. Fork the repository
+- Step 2. Clone your fork
 
 ### Submitting work
 
