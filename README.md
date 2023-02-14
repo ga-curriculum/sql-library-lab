@@ -2,11 +2,8 @@
 
 | Title                  | Type | Duration | Author               |
 |------------------------|------|----------|----------------------|
-| Library DB             | Lab  | 2:00     | Suresh Melvin Sigera |
+| SQL Library            | Lab  | 2:00     | Suresh Melvin Sigera |
 
-
-
-## How to submit homework
 
 ### Setup
 
@@ -17,7 +14,7 @@
 - Step 5. Open the PSQL tool.
 
 
-## Inspecting The Schema
+### Inspecting The Schema
 
 Look critically at each line of the provided `schema.sql` file. Here's how one row breaks down...
 
@@ -28,7 +25,7 @@ Look critically at each line of the provided `schema.sql` file. Here's how one r
 
 Take a few minutes to research the other rows.
 
-## Load The Schema
+### Load The Schema
 
 Load the schema into your database from the command line...
 
@@ -37,7 +34,7 @@ Load the schema into your database from the command line...
 \i /Users/<yourname>/2023/abbottlabs/labs/sql-library-lab/schema.sql
 ```
 
-## Loading A Seed File
+### Loading A Seed File
 
 We've provided a sql file that adds sample data into our `library` database.
 
@@ -47,7 +44,7 @@ Load that in so we can practice interacting with our data. Make sure to also loo
 \i /Users/<yourname>/2023/abbottlabs/labs/sql-library-lab/seed.sql
 ```
 
-## Exercises
+### Exercises
 
 There are two exercises:
 
